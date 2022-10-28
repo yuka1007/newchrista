@@ -2,7 +2,8 @@
 
 <div class="l-inner">
   <div class="p-test">
-    フロントページ
+    フロントページgu
+
   </div>
 </div>
 
